@@ -5,7 +5,7 @@ import {
   BannerView,
   InterstitialAdManager,
   RewardedAdManager,
-} from 'react-native-yandex-mobile-ads';
+} from 'koteam-react-native-yandex-mobile-ads';
 
 export default class ExampleAd extends Component {
   render() {

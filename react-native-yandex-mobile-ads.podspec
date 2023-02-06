@@ -3,7 +3,7 @@ require "json"
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
 
 Pod::Spec.new do |s|
-  s.name         = "react-native-yandex-mobile-ads"
+  s.name         = "koteam-react-native-yandex-mobile-ads"
   s.version      = package["version"]
   s.summary      = package["description"]
   s.homepage     = package["homepage"]
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "12.0" }
-  s.source       = { :git => "https://github.com/vtr0n/react-native-yandex-mobile-ads.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/koteam-studio/react-native-yandex-mobile-ads.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 

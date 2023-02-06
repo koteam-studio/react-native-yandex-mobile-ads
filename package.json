@@ -1,6 +1,6 @@
 {
-  "name": "react-native-yandex-mobile-ads",
-  "version": "0.5.0",
+  "name": "koteam-react-native-yandex-mobile-ads",
+  "version": "1.0.0",
   "description": "Implementation Yandex ads for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/vtr0n/react-native-yandex-mobile-ads",
-  "author": "Valery Krasnoselsky <valery.krasnoselsky@gmail.com> (https://github.com/vtr0n)",
+  "repository": "https://github.com/koteam-studio/react-native-yandex-mobile-ads",
+  "author": "Koteam <hello@koteam.org> (https://github.com/koteam-studio)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vtr0n/react-native-yandex-mobile-ads/issues"
+    "url": "https://github.com/koteam-studio/react-native-yandex-mobile-ads/issues"
   },
-  "homepage": "https://github.com/vtr0n/react-native-yandex-mobile-ads#readme",
+  "homepage": "https://github.com/koteam-studio/react-native-yandex-mobile-ads#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
