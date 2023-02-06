@@ -1,6 +1,6 @@
 {
   "name": "koteam-react-native-yandex-mobile-ads",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation Yandex ads for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
